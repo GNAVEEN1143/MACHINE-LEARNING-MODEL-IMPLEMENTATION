@@ -88,3 +88,5 @@ This Python script performs spam email classification using a **Naive Bayes** cl
 This script implements a spam classification system that reads an email dataset, vectorizes the email content using TF-IDF, trains a Naive Bayes classifier, and evaluates the model using accuracy, a classification report, and a confusion matrix. The workflow is well-suited for tasks like spam detection in email filtering systems.
 
 OUTPUT:
+
+![Screenshot 2025-01-07 163539](https://github.com/user-attachments/assets/3d467a95-f7f6-47d7-83d0-69c94d3b97b7)
